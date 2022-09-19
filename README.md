@@ -22,3 +22,19 @@ https://github.com/arawn/spring-examples/blob/master/data-access/datasource-init
 
 https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#jdbc-initializing-datasource
 
+
+## spring mvc to boot migration
+https://dev.spatchcardio.com
+
+https://d2.naver.com/helloworld/5626759
+
+https://oingdaddy.tistory.com/18
+
+https://www.baeldung.com/spring-boot-migration
+
+https://www.boostcourse.org/web316/lecture/258283?isDesc=false
+
+https://www.boostcourse.org/web316/lecture/258284?isDesc=false
+
+
+
