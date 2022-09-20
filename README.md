@@ -39,6 +39,20 @@ https://www.boostcourse.org/web316/lecture/258284?isDesc=false
 https://brunch.co.kr/@springboot/91
 
 
+## spring mvc way of xml config & javaconfig
+
+https://www.boostcourse.org/web316/lecture/254335?isDesc=false
+
+https://www.boostcourse.org/web316/lecture/254336?isDesc=false
+
+https://www.boostcourse.org/web316/lecture/20658/?isDesc=false
+
+
+## spring mvc xml ? java discussion
+
+https://www.boostcourse.org/web316/forum/37601
+
+
 ## "Plugin 'org.springframework.boot:spring-boot-maven-plugin:' not found" 이슈
 https://velog.io/@devsh/Plugin-org.springframework.bootspring-boot-maven-plugin-not-found-%EC%97%90%EB%9F%AC-%EB%B0%9C%EC%83%9D%EC%8B%9C-%EC%B2%98%EB%A6%AC
 
