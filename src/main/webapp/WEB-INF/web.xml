@@ -20,18 +20,18 @@
 		</listener-class>
 	</listener>
 	
-	<!-- 	DispatcherServlet을 frontController로 등록하는부분  -->
+<!--	 	DispatcherServlet을 frontController로 등록하는부분  -->
 	<servlet>
 		<servlet-name>mvc</servlet-name>
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet
 		</servlet-class>
-		
+
 		<init-param>
 			<param-name>contextClass</param-name>
 			<param-value>org.springframework.web.context.support.AnnotationConfigWebApplicationContext</param-value>
 		</init-param>
-		
-		
+
+
 		<init-param>
 			<param-name>contextConfigLocation</param-name>
 			<param-value>kr.or.connect.booking.config.WebMvcContextConfiguration</param-value>
@@ -39,12 +39,12 @@
 		<load-on-startup>1</load-on-startup>
 	</servlet>
 	
-	<!-- '/'인 url이 들어오면 mvc라는 이름의 서블릿의 서블릿 클래스가 실행되라! 라는뜻, 즉 모든 url에대해서 실행된다. -->
-	<servlet-mapping>    
+<!--	 '/'인 url이 들어오면 mvc라는 이름의 서블릿의 서블릿 클래스가 실행되라! 라는뜻, 즉 모든 url에대해서 실행된다.-->
+	<servlet-mapping>
 		<servlet-name>mvc</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
-	<!-- 	DispatcherServlet FrontController 설정 끝  -->
+<!--	 	DispatcherServlet FrontController 설정 끝-->
 	
 	<filter>
 		<filter-name>encodingFilter</filter-name>

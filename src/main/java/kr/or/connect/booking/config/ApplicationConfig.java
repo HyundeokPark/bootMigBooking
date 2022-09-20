@@ -5,8 +5,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 
 @Configuration
-@ComponentScan(basePackages = { "kr.or.connect.booking.dao", "kr.or.connect.booking.service" })
-@Import({ DBConfig.class })
+//@ComponentScan(basePackages = { "kr.or.connect.booking.dao", "kr.or.connect.booking.service" })
+//@Import({ DBConfig.class })
 public class ApplicationConfig {
 
 }

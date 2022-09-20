@@ -9,7 +9,7 @@
     </appender>
 
     <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
-        <file>/Temp/bookingAccess.log</file>
+        <file>./Temp/bookingAccess.log</file>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
             <fileNamePattern>bookingAccess-%d{yyyy-MM-dd}.log</fileNamePattern>
             <maxHistory>30</maxHistory>

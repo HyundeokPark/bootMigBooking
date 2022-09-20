@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="booking.war">
+    <root id="archive" name="booking-0.0.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="booking:war exploded" />
     </root>
   </artifact>
