@@ -38,6 +38,10 @@ https://www.boostcourse.org/web316/lecture/258284?isDesc=false
 
 https://brunch.co.kr/@springboot/91
 
+### spring mvc web.xml -> boot
+
+https://www.baeldung.com/spring-boot-dispatcherservlet-web-xml
+
 
 ## spring mvc way of xml config & javaconfig
 
