@@ -64,3 +64,8 @@ https://velog.io/@devsh/Plugin-org.springframework.bootspring-boot-maven-plugin-
 
 https://be-a-weapon.tistory.com/4?category=1212680
 
+
+## com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run 이슈
+
+https://lovethefeel.tistory.com/40
+
